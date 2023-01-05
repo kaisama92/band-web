@@ -3,10 +3,19 @@
 }
 .sidebar {
   float: left;
-  width: auto;
-  background-color: gray;
+  width: 20%;
+  background-color: black;
+  color: white;
+  border: 10px;
+  padding: 10px;
 }
 img {
   float: right;
   width: 35%;
+}
+.sidebarh2 {
+  text-align: center;
+}
+.pagetitle {
+  text-align: center;
 }
