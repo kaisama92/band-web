@@ -11,7 +11,9 @@
 }
 img {
   float: right;
-  width: 35%;
+  width: 20%;
+  border: 20px;
+  padding: 10px;
 }
 .sidebarh2 {
   text-align: center;
