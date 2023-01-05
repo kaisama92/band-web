@@ -1,0 +1,12 @@
+.column {
+  text-align: center;
+}
+.sidebar {
+  float: left;
+  width: auto;
+  background-color: gray;
+}
+img {
+  float: right;
+  width: 35%;
+}
