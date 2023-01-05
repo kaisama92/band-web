@@ -27,4 +27,4 @@ _This application is a practice page containing Lorem Ipsum text. The page also 
 
 _MIT: If any problems occur, feel free to fix them and or reach out to Kai at kaiclausen123@gmail.com_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _1/5/2023_ _Kai Clausen, Mesha Devan_
