@@ -1,5 +1,7 @@
 .column {
   text-align: center;
+  padding: 20px;
+  border: 20px;
 }
 .sidebar {
   float: left;
@@ -8,16 +10,20 @@
   color: white;
   border: 10px;
   padding: 10px;
+  margin-right: 20px;
 }
 img {
   float: right;
   width: 20%;
   border: 20px;
   padding: 10px;
+  margin-left: 20px;
 }
 .sidebarh2 {
   text-align: center;
 }
 .pagetitle {
   text-align: center;
+  border: 20px solid gray;
+  padding: 20px;
 }
